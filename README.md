@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Zero Trust Architecture Reference
 
 > A practitioner-built reference for designing, implementing, and validating enterprise Zero Trust Architecture
